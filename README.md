@@ -23,8 +23,7 @@
 2. 레시피 찾기
 3. 커뮤니티
 4. 마이페이지
-  ![image](https://github.com/iamsoojung/Software_Engineering_Project/assets/65272297/2da9ff81-cb2b-4b11-b2a2-120be1ba546c)
-
+<img src="https://github.com/iamsoojung/Software_Engineering_Project/assets/65272297/2da9ff81-cb2b-4b11-b2a2-120be1ba546c.png" width="600"/>
 
 ## 팀플 기록
 | :date: | :page_facing_up: |
